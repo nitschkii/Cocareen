@@ -1,0 +1,11 @@
+{
+    "name": "cocareeen",
+    "version": "1.0.1",
+    "description": "Cocareeen for Leo's server",
+    "main": "bot.js",
+    "author": "nitschkii",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.3.3"
+    }
+}
